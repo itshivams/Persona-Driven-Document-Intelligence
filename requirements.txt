@@ -1,0 +1,7 @@
+pdfminer.six==20221105
+sentence-transformers==2.6.1
+sentencepiece>=0.1.99
+transformers==4.41.2
+scikit-learn==1.5.0
+torch==2.3.0
+tqdm==4.66.4

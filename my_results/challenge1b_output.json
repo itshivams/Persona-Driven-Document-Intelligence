@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "input_documents": [
+            ".DS_Store",
+            "Breakfast Ideas.pdf",
+            "Dinner Ideas - Mains_1.pdf",
+            "Dinner Ideas - Mains_2.pdf",
+            "Dinner Ideas - Mains_3.pdf",
+            "Dinner Ideas - Sides_1.pdf",
+            "Dinner Ideas - Sides_2.pdf",
+            "Dinner Ideas - Sides_3.pdf",
+            "Dinner Ideas - Sides_4.pdf",
+            "Lunch Ideas.pdf"
+        ],
+        "persona": "Food Contractor",
+        "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+        "processing_timestamp": "2025-07-27T10:01:39.177068"
+    },
+    "extracted_sections": [
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "page_number": 2,
+            "section_title": "o  1 teaspoon salt",
+            "importance_rank": 1
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 4,
+            "section_title": "Sliced green onions for garnish",
+            "importance_rank": 2
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "page_number": 8,
+            "section_title": "o  2 cloves garlic",
+            "importance_rank": 3
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "page_number": 6,
+            "section_title": "o  1 carrot",
+            "importance_rank": 4
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "page_number": 9,
+            "section_title": "o  1 teaspoon salt",
+            "importance_rank": 5
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 9,
+            "section_title": "Chickpea and Avocado Sandwich",
+            "importance_rank": 6
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "page_number": 9,
+            "section_title": "Mandazi",
+            "importance_rank": 7
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 2,
+            "section_title": "Chicken Caesar Wrap",
+            "importance_rank": 8
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "page_number": 15,
+            "section_title": "o  1 small onion",
+            "importance_rank": 9
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "page_number": 7,
+            "section_title": "o  1 teaspoon paprika",
+            "importance_rank": 10
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "page_number": 2,
+            "refined_text": "o Cut paneer into cubes and marinate for at least 1 hour. add yogurt, lemon juice, cumin, coriander, garam masala, turmeric, and salt."
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "page_number": 4,
+            "refined_text": "in a bowl, mix soy sauce, mirin, sugar, sake, grated ginger, and minced garlic. pour marinade into the skillet and simmer until thickened. serve chicken over cooked rice garnished with sliced green onions."
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "page_number": 8,
+            "refined_text": "sauté minced garlic in sesame oil until fragrant. add bok choy and stir-fry until tender."
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "page_number": 6,
+            "refined_text": "o Heat oil in a pan and sauté diced onion until translucent. o Add diced carrot, peas, cumin, coriander, turmeric, and garam masala, cook for 1 minute."
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "page_number": 9,
+            "refined_text": "sauté chicken, diced onion, and minced garlic in olive oil until browned. add cumin, turmeric, ginger, and salt, cook for 1 minute. pour chicken and sauce over bread and serve warm."
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 9,
+            "refined_text": "1 cup cherry tomatoes, halved 1/2 cucumber, diced 1/4 cup red onion, finely chopped 1/4 cup black olives, crumbled feta cheese. salt and pepper to taste 1 tablespoon red wine vinegar."
+        },
+        {
+            "document": "Dinner Ideas - Sides_3.pdf",
+            "page_number": 9,
+            "refined_text": "o 2 cups flour o 1/4 cup sugar o 1 tablespoon baking powder o 1/2 teaspoon salt o 3/4 cup water o Oil for frying • Instructions: o Mix flour, sugar, baking powder, and salt in a bowl. o Roll out dough and cut into triangle"
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "page_number": 2,
+            "refined_text": "1 whole wheat tortilla: 1 cup cooked chicken breast, sliced; 1 cup romaine lettuce, chopped; 2 tablespoons Caesar dressing. add chicken, lettuce, and Parmesan cheese; roll up tortilla tightly."
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "page_number": 15,
+            "refined_text": "o Cut avocados in half, remove the pit, and scoop out the flesh into a bowl. o Add lime juice, diced onion, chopped tomatoes, salt, cilantro, and garlic."
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "page_number": 7,
+            "refined_text": "sauté ground beef, diced onion, minced garlic, chopped olives, and raisins with cumin, paprika, and salt until cooked. o Place a spoonful of filling on each circle and fold to seal."
+        }
+    ]
+}
