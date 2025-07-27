@@ -102,10 +102,19 @@ docker run --rm \
 * **Scalability**: embedding and summarization are batchable but CPU‑bound; expect linear time with document size.
 * **Robustness**: non‑PDF or corrupted files are skipped with a warning.
 
-## License
-
-MIT License
-
 ---
+## Our Team
+We are a cross-functional team of machine learning engineers, NLP researchers, full-stack developers, and software architects passionate about document intelligence. Our mission is to make complex document structures easily interpretable by building accurate, scalable, and user-friendly PDF outline extraction systems powered by AI.
 
-*Built for Round 1B: Persona‑Driven Document Intelligence.*
+- [Shivam](https://github.com/itshivams)
+- [Ritik Gupta](https://github.com/ritikgupta06)
+- [Sanskar Soni](https://github.com/sunscar-sony)
+
+
+## GitHub Repository
+You can find the complete source code to the project on GitHub:
+[GitHub Repository](https://github.com/itshivams/Persona-Driven-Document-Intelligence/)
+
+## Acknowledgment
+Special thanks to Adobe India for organizing this hackathon.
+
